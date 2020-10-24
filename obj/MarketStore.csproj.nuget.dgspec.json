@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Kisha\\Desktop\\MarketStore\\MarketStore\\MarketStore\\MarketStore.csproj": {}
+    "C:\\Users\\Kisha\\Desktop\\InterviewPrimeHolding\\MarketStore\\MarketStore.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Kisha\\Desktop\\MarketStore\\MarketStore\\MarketStore\\MarketStore.csproj": {
+    "C:\\Users\\Kisha\\Desktop\\InterviewPrimeHolding\\MarketStore\\MarketStore.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Kisha\\Desktop\\MarketStore\\MarketStore\\MarketStore\\MarketStore.csproj",
+        "projectUniqueName": "C:\\Users\\Kisha\\Desktop\\InterviewPrimeHolding\\MarketStore\\MarketStore.csproj",
         "projectName": "MarketStore",
-        "projectPath": "C:\\Users\\Kisha\\Desktop\\MarketStore\\MarketStore\\MarketStore\\MarketStore.csproj",
+        "projectPath": "C:\\Users\\Kisha\\Desktop\\InterviewPrimeHolding\\MarketStore\\MarketStore.csproj",
         "packagesPath": "C:\\Users\\Kisha\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Kisha\\Desktop\\MarketStore\\MarketStore\\MarketStore\\obj\\",
+        "outputPath": "C:\\Users\\Kisha\\Desktop\\InterviewPrimeHolding\\MarketStore\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
