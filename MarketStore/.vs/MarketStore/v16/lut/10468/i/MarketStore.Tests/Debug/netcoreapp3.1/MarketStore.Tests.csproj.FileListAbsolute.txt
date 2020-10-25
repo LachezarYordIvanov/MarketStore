@@ -1,0 +1,15 @@
+C:\Users\Kisha\Desktop\InterviewPrimeHolding\MarketStore\MarketStore\.vs\MarketStore\v16\lut\0\b\MarketStore.Tests\Debug\netcoreapp3.1\MarketStore.exe
+C:\Users\Kisha\Desktop\InterviewPrimeHolding\MarketStore\MarketStore\.vs\MarketStore\v16\lut\0\b\MarketStore.Tests\Debug\netcoreapp3.1\NUnit3.TestAdapter.dll
+C:\Users\Kisha\Desktop\InterviewPrimeHolding\MarketStore\MarketStore\.vs\MarketStore\v16\lut\0\b\MarketStore.Tests\Debug\netcoreapp3.1\NUnit3.TestAdapter.pdb
+C:\Users\Kisha\Desktop\InterviewPrimeHolding\MarketStore\MarketStore\.vs\MarketStore\v16\lut\0\b\MarketStore.Tests\Debug\netcoreapp3.1\nunit.engine.dll
+C:\Users\Kisha\Desktop\InterviewPrimeHolding\MarketStore\MarketStore\.vs\MarketStore\v16\lut\0\b\MarketStore.Tests\Debug\netcoreapp3.1\nunit.engine.api.dll
+C:\Users\Kisha\Desktop\InterviewPrimeHolding\MarketStore\MarketStore\.vs\MarketStore\v16\lut\0\b\MarketStore.Tests\Debug\netcoreapp3.1\MarketStore.Tests.deps.json
+C:\Users\Kisha\Desktop\InterviewPrimeHolding\MarketStore\MarketStore\.vs\MarketStore\v16\lut\0\b\MarketStore.Tests\Debug\netcoreapp3.1\MarketStore.Tests.runtimeconfig.json
+C:\Users\Kisha\Desktop\InterviewPrimeHolding\MarketStore\MarketStore\.vs\MarketStore\v16\lut\0\b\MarketStore.Tests\Debug\netcoreapp3.1\MarketStore.Tests.runtimeconfig.dev.json
+C:\Users\Kisha\Desktop\InterviewPrimeHolding\MarketStore\MarketStore\.vs\MarketStore\v16\lut\0\b\MarketStore.Tests\Debug\netcoreapp3.1\MarketStore.Tests.dll
+C:\Users\Kisha\Desktop\InterviewPrimeHolding\MarketStore\MarketStore\.vs\MarketStore\v16\lut\0\i\MarketStore.Tests\Debug\netcoreapp3.1\MarketStore.Tests.csprojAssemblyReference.cache
+C:\Users\Kisha\Desktop\InterviewPrimeHolding\MarketStore\MarketStore\.vs\MarketStore\v16\lut\0\i\MarketStore.Tests\Debug\netcoreapp3.1\MarketStore.Tests.AssemblyInfoInputs.cache
+C:\Users\Kisha\Desktop\InterviewPrimeHolding\MarketStore\MarketStore\.vs\MarketStore\v16\lut\0\i\MarketStore.Tests\Debug\netcoreapp3.1\MarketStore.Tests.AssemblyInfo.cs
+C:\Users\Kisha\Desktop\InterviewPrimeHolding\MarketStore\MarketStore\.vs\MarketStore\v16\lut\0\i\MarketStore.Tests\Debug\netcoreapp3.1\MarketStore.Tests.csproj.CopyComplete
+C:\Users\Kisha\Desktop\InterviewPrimeHolding\MarketStore\MarketStore\.vs\MarketStore\v16\lut\0\i\MarketStore.Tests\Debug\netcoreapp3.1\MarketStore.Tests.dll
+C:\Users\Kisha\Desktop\InterviewPrimeHolding\MarketStore\MarketStore\.vs\MarketStore\v16\lut\0\i\MarketStore.Tests\Debug\netcoreapp3.1\MarketStore.Tests.genruntimeconfig.cache

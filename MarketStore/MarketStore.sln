@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30517.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MarketStore", "MarketStore.csproj", "{23C6CCFF-EA1C-457F-A493-E1D4D22A1481}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MarketStore.Tests", "..\MarketStore.Tests\MarketStore.Tests.csproj", "{58B35C67-86DC-4B36-843B-9D8D9218E687}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{23C6CCFF-EA1C-457F-A493-E1D4D22A1481}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{23C6CCFF-EA1C-457F-A493-E1D4D22A1481}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{23C6CCFF-EA1C-457F-A493-E1D4D22A1481}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{23C6CCFF-EA1C-457F-A493-E1D4D22A1481}.Release|Any CPU.Build.0 = Release|Any CPU
+		{58B35C67-86DC-4B36-843B-9D8D9218E687}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{58B35C67-86DC-4B36-843B-9D8D9218E687}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{58B35C67-86DC-4B36-843B-9D8D9218E687}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{58B35C67-86DC-4B36-843B-9D8D9218E687}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {67EBCFF7-D63C-408F-8628-9E1FAD3C68F8}
+	EndGlobalSection
+EndGlobal

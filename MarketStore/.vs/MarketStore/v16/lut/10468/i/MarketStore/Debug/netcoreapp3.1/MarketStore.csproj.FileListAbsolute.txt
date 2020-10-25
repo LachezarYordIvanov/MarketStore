@@ -1,0 +1,12 @@
+C:\Users\Kisha\Desktop\InterviewPrimeHolding\MarketStore\MarketStore\.vs\MarketStore\v16\lut\0\b\MarketStore\Debug\netcoreapp3.1\MarketStore.exe
+C:\Users\Kisha\Desktop\InterviewPrimeHolding\MarketStore\MarketStore\.vs\MarketStore\v16\lut\0\b\MarketStore\Debug\netcoreapp3.1\MarketStore.deps.json
+C:\Users\Kisha\Desktop\InterviewPrimeHolding\MarketStore\MarketStore\.vs\MarketStore\v16\lut\0\b\MarketStore\Debug\netcoreapp3.1\MarketStore.runtimeconfig.json
+C:\Users\Kisha\Desktop\InterviewPrimeHolding\MarketStore\MarketStore\.vs\MarketStore\v16\lut\0\b\MarketStore\Debug\netcoreapp3.1\MarketStore.runtimeconfig.dev.json
+C:\Users\Kisha\Desktop\InterviewPrimeHolding\MarketStore\MarketStore\.vs\MarketStore\v16\lut\0\b\MarketStore\Debug\netcoreapp3.1\MarketStore.dll
+C:\Users\Kisha\Desktop\InterviewPrimeHolding\MarketStore\MarketStore\.vs\MarketStore\v16\lut\0\b\MarketStore\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.LiveUnitTesting.Runtime.dll
+C:\Users\Kisha\Desktop\InterviewPrimeHolding\MarketStore\MarketStore\.vs\MarketStore\v16\lut\0\i\MarketStore\Debug\netcoreapp3.1\MarketStore.csprojAssemblyReference.cache
+C:\Users\Kisha\Desktop\InterviewPrimeHolding\MarketStore\MarketStore\.vs\MarketStore\v16\lut\0\i\MarketStore\Debug\netcoreapp3.1\MarketStore.AssemblyInfoInputs.cache
+C:\Users\Kisha\Desktop\InterviewPrimeHolding\MarketStore\MarketStore\.vs\MarketStore\v16\lut\0\i\MarketStore\Debug\netcoreapp3.1\MarketStore.AssemblyInfo.cs
+C:\Users\Kisha\Desktop\InterviewPrimeHolding\MarketStore\MarketStore\.vs\MarketStore\v16\lut\0\i\MarketStore\Debug\netcoreapp3.1\MarketStore.csproj.CopyComplete
+C:\Users\Kisha\Desktop\InterviewPrimeHolding\MarketStore\MarketStore\.vs\MarketStore\v16\lut\0\i\MarketStore\Debug\netcoreapp3.1\MarketStore.dll
+C:\Users\Kisha\Desktop\InterviewPrimeHolding\MarketStore\MarketStore\.vs\MarketStore\v16\lut\0\i\MarketStore\Debug\netcoreapp3.1\MarketStore.genruntimeconfig.cache
