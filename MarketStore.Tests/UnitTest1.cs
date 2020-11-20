@@ -67,7 +67,7 @@ namespace MarketStore.Tests
         {
             Card myBronzeCard = new BronzeCard(300);
             double expected = 2.5;
-            double actual = myBronzeCard.calculateDiscount(100);
+            double actual = myBronzeCard.CalculateDiscount(100);
             Assert.AreEqual(expected, actual);
         }
 
@@ -76,7 +76,7 @@ namespace MarketStore.Tests
         {
             Card myBronzeCard = new BronzeCard(0);
             double expected = 0;
-            double actual = myBronzeCard.calculateDiscount(100);
+            double actual = myBronzeCard.CalculateDiscount(100);
             Assert.AreEqual(expected, actual);
         }
 
@@ -85,7 +85,7 @@ namespace MarketStore.Tests
         {
             Card myBronzeCard = new BronzeCard(200);
             double expected = 1;
-            double actual = myBronzeCard.calculateDiscount(100);
+            double actual = myBronzeCard.CalculateDiscount(100);
             Assert.AreEqual(expected, actual);
         }
 
@@ -164,7 +164,7 @@ namespace MarketStore.Tests
         {
             Card mySilverCard = new SilverCard(300);
             double expected = 3.5;
-            double actual = mySilverCard.calculateDiscount(100);
+            double actual = mySilverCard.CalculateDiscount(100);
             Assert.AreEqual(expected, actual);
         }
 
@@ -173,7 +173,7 @@ namespace MarketStore.Tests
         {
             Card mySilverCard = new SilverCard(0);
             double expected = 2;
-            double actual = mySilverCard.calculateDiscount(100);
+            double actual = mySilverCard.CalculateDiscount(100);
             Assert.AreEqual(expected, actual);
         }
 
@@ -182,7 +182,7 @@ namespace MarketStore.Tests
         {            
             Card mySilverCard = new SilverCard(300);
             double expected = 3.5;
-            double actual = mySilverCard.calculateDiscount(100);
+            double actual = mySilverCard.CalculateDiscount(100);
             Assert.AreEqual(expected, actual);
         }
 
@@ -261,7 +261,7 @@ namespace MarketStore.Tests
         {
             Card myGoldCard = new GoldCard(300);
             double expected = 5;
-            double actual = myGoldCard.calculateDiscount(100);
+            double actual = myGoldCard.CalculateDiscount(100);
             Assert.AreEqual(expected, actual);
         }
 
@@ -270,7 +270,7 @@ namespace MarketStore.Tests
         {
             Card myGoldCard = new GoldCard(0);
             double expected = 2;
-            double actual = myGoldCard.calculateDiscount(100);
+            double actual = myGoldCard.CalculateDiscount(100);
             Assert.AreEqual(expected, actual);
         }
 
@@ -279,7 +279,7 @@ namespace MarketStore.Tests
         {
             Card myGoldCard = new GoldCard(900);
             double expected = 10;
-            double actual = myGoldCard.calculateDiscount(100);
+            double actual = myGoldCard.CalculateDiscount(100);
             Assert.AreEqual(expected, actual);
         }
 

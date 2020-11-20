@@ -8,7 +8,7 @@
 
             this.DiscountRate = card.GetDiscountRate();
 
-            this.Discount = card.calculateDiscount(valueOfPurchase);
+            this.Discount = card.CalculateDiscount(valueOfPurchase);
 
             this.Total = valueOfPurchase - this.Discount;
         }
