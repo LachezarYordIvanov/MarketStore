@@ -21,7 +21,7 @@ namespace MarketStore
 
         public double Turnover { get; set; }
 
-        public double calculateDiscount(double valueOfPurchase)
+        public double CalculateDiscount(double valueOfPurchase)
         {
             return valueOfPurchase * GetDiscountRate() / 100;
         }
